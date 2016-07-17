@@ -1,4 +1,4 @@
-# Artificial neural network models
+# Evolutionary Algorithms Demo
 > Artificial Intelligence
 
 Evolutionary algorithm (EA) is a subset of evolutionary computation, a generic population-based meta heuristic optimization algorithm. An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection.
